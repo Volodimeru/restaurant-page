@@ -1,7 +1,7 @@
 # restaurant-page
 The Odin Project exercise
 
-##Links
+## Links
 
 -view given [assignement](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page#assignment)
 
